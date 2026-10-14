@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🐼 E-BOLT | MODERN AUTHENTICATION DASHBOARD
+  # 🐼 PANDA | MODERN AUTHENTICATION DASHBOARD
 
   <p><em>A sleek, high-performance web interface featuring a modern split-screen design, interactive sign-in flow, and clean CSS aesthetics.</em></p>
 
@@ -25,12 +25,11 @@
 
 Experience the application running live in your browser right now:
 
-👉 **[Click Here to Open the E-Bolt Website](https://241fa18462-tarun.github.io/Ebolt-website/)**
+👉 **[Click Here to Open the Website](https://241fa18462-tarun.github.io/Ebolt-website/)**[cite: 1]
 
 <div align="center">
   <br>
-  <!-- Replace with your actual screenshot path if you upload one to your repo -->
-  <img src="assets/preview-screenshot.png" alt="Project Interface Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0, 180, 216, 0.4);">
+  <img src="https://raw.githubusercontent.com/241fa18462-tarun/Ebolt-website/main/assets/preview-screenshot.png" alt="Project Interface Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0, 180, 216, 0.4);">
   <br>
 </div>
 
@@ -38,10 +37,10 @@ Experience the application running live in your browser right now:
 
 ## 💎 Key Features & Capabilities
 
-* **🎨 Immersive UI/UX Design:** Dark-themed aesthetic complemented by striking cyan and white accents, smooth gradient transitions, and custom typography.
+* **🎨 Immersive UI/UX Design:** Dark-themed aesthetic complemented by striking cyan accents, smooth gradient transitions, and custom typography.
 * **🔐 Interactive Login Module:** Fully responsive form controls including email/username input fields, masked password inputs, and visibility toggles.
 * **⚡ Smart User Controls:** Seamless switching elements for "Sign Up", "Remember me" persistence states, and password recovery options.
-* **🌐 Quick Social Integration:** Embedded sidebar quick-links connecting users directly to GitHub, Instagram, and other developer platforms[cite: 2].
+* **🌐 Quick Social Integration:** Embedded sidebar quick-links connecting users directly to GitHub and other platform channels[cite: 2].
 * **📱 Fully Responsive:** Crafted with flexible layout containers to ensure clean formatting across desktop monitors, tablets, and mobile devices.
 
 ---
