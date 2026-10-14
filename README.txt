@@ -1,53 +1,122 @@
-# 🐼 EBOLT — Paw. Peace. Positivity.
+ <div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EBOLT-Panda%20Experience-69D0F0?style=for-the-badge&logo=github" alt="Ebolt Badge" />
-  <img src="https://img.shields.io/badge/Status-Live-2ea44f?style=for-the-badge" alt="Live Status" />
-  <img src="https://img.shields.io/badge/Platform-Web-0969DA?style=for-the-badge" alt="Web Platform" />
-</p>
+# 🐼 EBOLT
 
-<h3 align="center">✨ A modern, creative, and interactive web experience ✨</h3>
+### PAW. PEACE. POSITIVITY.
 
-<p align="center">
-  Welcome to <b>EBOLT</b> — a stylish website featuring a modern interface, a cute panda-inspired design, and a smooth user experience.
-</p>
+**A fresh digital experience with a bold look and a panda-inspired identity.**
 
-<p align="center">
-  🌐 <a href="https://241fa18462-tarun.github.io/Ebolt-website/"><b>VISIT LIVE WEBSITE</b></a>
-</p>
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Ebolt-00BFEA?style=for-the-badge)](https://241fa18462-tarun.github.io/Ebolt-website/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github)](https://github.com/241fa18462-Tarun/Ebolt-website)
+[![Status](https://img.shields.io/badge/STATUS-LIVE-22C55E?style=for-the-badge)](https://241fa18462-tarun.github.io/Ebolt-website/)
 
----
+<br/>
 
-## 📸 Website Preview
+<img src="screenshots/ebolt-login.png" width="90%" alt="Ebolt website login preview"/>
 
-<p align="center">
-  <img src="screenshots/ebolt-login.png" alt="Ebolt Login Page Preview" width="85%" />
-</p>
+<br/>
+
+*Simple. Stylish. Smooth. Welcome to Ebolt.*
+
+</div>
 
 ---
+
+## ✨ Discover Ebolt
+
+Ebolt brings together modern web design, a distinctive panda mascot, and a clean interface to create a memorable digital experience.
+
+Whether you're exploring the interface or signing in, Ebolt is designed with simplicity and style in mind.
 
 ## 🚀 Features
 
-- 🐼 **Panda-Inspired Branding** — A unique mascot and visual identity.
-- 🔐 **Login Interface** — A stylish sign-in page with username and password fields.
-- 👤 **User-Friendly Design** — Clean layouts and rounded interface elements.
-- 🌊 **Modern Background** — Beautiful blue and teal colors with decorative shapes.
-- 📱 **Responsive Experience** — Designed for a modern web experience.
-- ✨ **Interactive Elements** — Form controls and interface details for a polished feel.
-- 🌐 **Live Website** — Easily accessible through GitHub Pages.
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Built With
+### 🐼 Panda Branding
+A unique mascot and recognizable visual identity.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-</p>
+</td>
+<td width="50%">
 
-## 🌐 Live Demo
+### 🎨 Modern UI
+Dark surfaces, cyan accents, rounded elements, and elegant styling.
 
-👉 **[Click here to explore EBOLT](https://241fa18462-tarun.github.io/Ebolt-website/)**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Login Experience
+A dedicated sign-in interface with username and password fields.
+
+</td>
+<td width="50%">
+
+### 📱 Responsive Design
+A modern layout designed with different screen sizes in mind.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌊 Atmospheric Background
+Layered blue and teal shapes create visual depth.
+
+</td>
+<td width="50%">
+
+### ⚡ Interactive Elements
+Interface controls and visual details designed for usability.
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+</div>
+
+## 🌐 Explore the Live Website
+
+<div align="center">
+
+### Ready to explore?
+
+Experience the Ebolt interface directly in your browser.
+
+<a href="https://241fa18462-tarun.github.io/Ebolt-website/">
+<img src="https://img.shields.io/badge/OPEN_EBOLT_NOW-00BFEA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Ebolt"/>
+</a>
+
+</div>
+
+## 💻 Run Ebolt Locally
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/241fa18462-Tarun/Ebolt-website.git
+```
+
+**2. Enter the project folder**
+
+```bash
+cd Ebolt-website
+```
+
+**3. Launch the website**
+
+Open `index.html` in your browser, or use the Live Server extension in Visual Studio Code.
 
 ## 📂 Project Structure
 
@@ -62,53 +131,39 @@ Ebolt-website/
 └── assets/
 ```
 
-*Note: The folder names above are illustrative. Adjust them to match your actual repository structure.*
+*Adjust this example to match your actual repository files and folders.*
 
-## 💻 Run Locally
+## 🔮 What's Next?
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/241fa18462-Tarun/Ebolt-website.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd Ebolt-website
-   ```
-
-3. Open `index.html` in your browser, or use the **Live Server** extension in VS Code.
-
-## 🎯 Project Goals
-
-EBOLT aims to combine a memorable visual identity with a simple, accessible, and engaging web experience.
-
-## 🔮 Future Improvements
-
-- [ ] Improve mobile and tablet layouts.
-- [ ] Add enhanced form validation.
-- [ ] Add secure user authentication.
-- [ ] Improve accessibility and keyboard navigation.
-- [ ] Add more animations and interactive features.
+- [ ] Enhance mobile and tablet layouts.
+- [ ] Add accessible form validation.
+- [ ] Implement secure authentication.
+- [ ] Add new animations and transitions.
+- [ ] Expand the Ebolt experience with more features.
 
 ## 🤝 Contributing
 
-Suggestions and contributions are welcome!
+Have an idea to improve Ebolt? Contributions and suggestions are welcome!
 
-1. Fork this repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
+1. Fork the repository.
+2. Create a feature branch.
+3. Make and test your changes.
+4. Open a pull request.
 
 ## 📄 License
 
-This project is available under the license specified in this repository. If no license has been added yet, consider adding one.
+No license information has been specified here. Add a `LICENSE` file if you intend to publish the project under an open-source license.
 
 ---
 
-<p align="center">
-  Made with 💙 and 🐼
-  <br />
-  <b>EBOLT — Paw. Peace. Positivity.</b>
-</p>
+<div align="center">
+
+### 💙 Made with creativity & 🐼
+
+**EBOLT — PAW. PEACE. POSITIVITY.**
+
+[🌐 Website](https://241fa18462-tarun.github.io/Ebolt-website/) · [💻 GitHub Repository](https://github.com/241fa18462-Tarun/Ebolt-website)
+
+<sub>Thanks for visiting Ebolt! ⭐ Star the repository if you like the project.</sub>
+
+</div>
