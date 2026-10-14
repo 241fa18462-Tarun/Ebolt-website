@@ -1,55 +1,54 @@
-# 🐼 PANDA - Modern Login & Feature Dashboard
-
 <div align="center">
 
+  # 🐼 E-BOLT | MODERN AUTHENTICATION DASHBOARD
+
+  <p><em>A sleek, high-performance web interface featuring a modern split-screen design, interactive sign-in flow, and clean CSS aesthetics.</em></p>
+
+  <!-- HIGHLIGHTED LIVE SITE BUTTON -->
+  <br>
   <a href="https://241fa18462-tarun.github.io/Ebolt-website/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here_to_Visit_Site-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Live Site">
+    <img src="https://img.shields.io/badge/🚀_VISIT_LIVE_SITE-Click_Here_to_Explore-ff007f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Live Site" height="45">
   </a>
+  <br><br>
 
-  <p><em>A sleek, modern, and interactive user authentication and dashboard interface built with clean web design principles.</em></p>
+  <!-- TECH STACK BADGES -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
 
 </div>
 
 ---
 
-## ✨ Live Preview
+## 🌟 Live Preview & Access
 
-> Explore the live application hosted on GitHub Pages:  
-> **👉 [https://241fa18462-tarun.github.io/Ebolt-website/](https://241fa18462-tarun.github.io/Ebolt-website/)**
+Experience the application running live in your browser right now:
+
+👉 **[Click Here to Open the E-Bolt Website](https://241fa18462-tarun.github.io/Ebolt-website/)**
 
 <div align="center">
   <br>
-  <!-- Optional: Add a screenshot or preview GIF of your project here -->
-  <img src="assets/preview-screenshot.png" alt="Panda Interface Preview" width="800px" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <!-- Replace with your actual screenshot path if you upload one to your repo -->
+  <img src="assets/preview-screenshot.png" alt="Project Interface Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0, 180, 216, 0.4);">
   <br>
 </div>
 
 ---
 
-## 🚀 Key Features
+## 💎 Key Features & Capabilities
 
-* **Modern Split-Screen UI:** Clean layout featuring an intuitive sign-in/welcome section alongside an engaging visual branding panel.
-* **Interactive Authentication Form:** 
-  * Username and Password input fields with clean styling.
-  * Secure password visibility toggle.
-  * "Remember me" checkbox and "Forgot password?" recovery link.
-  * Seamless navigation toggle between Sign In and Sign Up views.
-* **Social & Community Links:** Quick-access sidebar integration for GitHub, Instagram, and other platform links.
-* **Responsive & Lightweight:** Optimized for smooth rendering across various screen sizes and modern web browsers.
+* **🎨 Immersive UI/UX Design:** Dark-themed aesthetic complemented by striking cyan and white accents, smooth gradient transitions, and custom typography.
+* **🔐 Interactive Login Module:** Fully responsive form controls including email/username input fields, masked password inputs, and visibility toggles.
+* **⚡ Smart User Controls:** Seamless switching elements for "Sign Up", "Remember me" persistence states, and password recovery options.
+* **🌐 Quick Social Integration:** Embedded sidebar quick-links connecting users directly to GitHub, Instagram, and other developer platforms[cite: 2].
+* **📱 Fully Responsive:** Crafted with flexible layout containers to ensure clean formatting across desktop monitors, tablets, and mobile devices.
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Local Installation & Setup
 
-* **HTML5** – Semantic document structure.
-* **CSS3** – Modern styling, custom fonts, flexbox/grid layouts, and gradients.
-* **JavaScript** – Dynamic client-side interactivity.
-
----
-
-## 💻 Getting Started Locally
-
-To run this project locally on your machine, follow these simple steps:
+If you want to run or test this project locally on your machine, follow these quick steps:
 
 1. **Clone the repository:**
    ```bash
